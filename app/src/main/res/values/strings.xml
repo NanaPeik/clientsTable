@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Clients</string>
+    <string name="search">Search</string>
+    <string name="sort_by">Sort</string>
+</resources>
